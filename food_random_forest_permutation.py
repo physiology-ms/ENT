@@ -4,6 +4,7 @@ Created on Wed Mar  7 17:29:06 2018
 
 @author: physiology
 """
+import warnings
 
 import os
 os.chdir(r"C:\Users\physiology\Desktop\food")
